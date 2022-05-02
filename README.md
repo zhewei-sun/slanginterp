@@ -8,6 +8,10 @@ This is the github repository for the upcoming NAACL paper "Semantically Informe
 This is the github repository for the upcoming NAACL paper "[Semantically Informed Slang Interpretation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00378/100687/A-Computational-Framework-for-Slang-Generation)".
 -->
 
+```
+Sun, Z., Zemel, R., and Xu, Y. (2022) Semantically informed slang interpretation. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies.
+```
+
 ### /Code
 
 The attached IPython notebook contains the supplementary code for 'Semantically Informed Slang Interpretation'. Since we cannot publically release all revelant datasets used in the study due to copyright terms, the purpose of this code package is to provide an illustration of how the main results from the paper can be reproduced. Specifically, the code package includes all required non-standard code dependencies and code in the IPython notebook show how results can be reproduced using these libraries.
