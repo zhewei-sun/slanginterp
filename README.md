@@ -2,11 +2,8 @@
 
 #### By: [Zhewei Sun](http://www.cs.toronto.edu/~zheweisun/)
 
-This is the github repository for the upcoming NAACL paper "Semantically Informed Slang Interpretation".
+This is the github repository for the NAACL paper "[Semantically Informed Slang Interpretation](https://aclanthology.org/2022.naacl-main.383/)".
 
-<!---
-This is the github repository for the upcoming NAACL paper "[Semantically Informed Slang Interpretation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00378/100687/A-Computational-Framework-for-Slang-Generation)".
--->
 
 ```
 Sun, Z., Zemel, R., and Xu, Y. (2022) Semantically informed slang interpretation. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies.
